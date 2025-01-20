@@ -14,8 +14,8 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/sergioguilherme1)](https://linkedin.com/in/sergioguilherme1)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sergiopedroso_@hotmail.com)](mailto:sergiopedroso_@hotmail.com)
+[![Linkedin](https://img.shields.io/badge/-sergioguilherme1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/sergioguilherme1)](https://linkedin.com/in/sergioguilherme1)
+[![Gmail Badge](https://img.shields.io/badge/-sergiopedroso_@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sergiopedroso_@hotmail.com)](mailto:sergiopedroso_@hotmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/sergioguilherme1)
 
           
