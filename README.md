@@ -1,7 +1,7 @@
-### Olá, Me chamo Sérgio, e seja muito bem vindo(a)! 👋
+### Olá, Me chamo Sérgio, seja muito bem vindo(a)! 👋
 
 - 🌱 Atualmente sou um estudante de Engenharia de Software, que está sempre em busca de novos aprendizados.
-- 👯 Estou focado em me tornar um desenvolvedor de software,e no futuro, gerenciar projetos.
+- 👯 Estou focado em me tornar um desenvolvedor de software, e no futuro, gerenciar projetos.
 - 📩 Email para contato: sergiopedroso_@hotmail.com
 
   <div style='display: inline_block'><br>
